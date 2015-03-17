@@ -1,1 +1,9 @@
 port of mathgl library to the D programming language
+
+status - C bindings are done, although functions requiring variadic arguments with no fixed arguments have not been wrapped (dmd complains)
+not tested at all beyond the first trivial example (which does compile and run)
+
+to do
+ - port tests to D.
+ - get these variadic functions working too.
+ -  port the C++ wrappers to D
