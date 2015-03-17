@@ -1,0 +1,7 @@
+{
+	"name": "dmathgl",
+	"description": "bindings and D wrappers for mathgl",
+	"authors": ["laeeth"],
+	"dependencies": {
+	}
+}
