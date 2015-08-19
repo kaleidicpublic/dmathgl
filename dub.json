@@ -1,0 +1,10 @@
+{
+	"name": "dmathgl",
+    	"homepage": "https://github.com/laeeth/dmathgl",
+    	"license": "Boost",
+	"description": "bindings and D wrappers for mathgl",
+	"authors": ["Laeeth Isharc"],
+	"dependencies": {
+	},
+	"targetType": "sourceLibrary"
+}
