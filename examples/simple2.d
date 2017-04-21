@@ -1,4 +1,4 @@
-import mgl;
+import kaleidic.api.mathgl;
 
 int sample(HMGL gr, void *)
 {

@@ -7,3 +7,7 @@ to do
  - port tests to D.
  - get these variadic functions working too.
  -  port the C++ wrappers to D
+
+Sample Graph:
+
+![Image of Sample Graph](examples/test.png)

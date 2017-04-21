@@ -1,4 +1,4 @@
-import mgl;
+import kaleidic.api.mathgl;
 import std.stdio;
 
 int main()

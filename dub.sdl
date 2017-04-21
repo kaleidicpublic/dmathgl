@@ -1,0 +1,6 @@
+name "dmathgl"
+description "bindings and D wrappers for mathgl"
+homepage "https://github.com/kaleidicpublic/dmathgl"
+authors "Laeeth Isharc"
+license "Boost"
+targetType "sourceLibrary"
